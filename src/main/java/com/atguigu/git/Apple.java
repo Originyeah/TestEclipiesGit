@@ -8,6 +8,6 @@
 package com.atguigu.git;
 public class Apple{
 	public static void main(String[] args){
-		System.out.print("left Hellow world");
+		System.out.print("right Hellow world");
 	}
 }
